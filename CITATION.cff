@@ -4,7 +4,7 @@ authors:
   - family-names: Effendi
     given-names: Jessee Ryan Jacob Rompas
   - given-names: Albert
-title: "Evaluating the Performance of Support Vector Regression and Random Forest for Stock Price Prediction in the IDX Source Code"
+title: "Source code for Evaluating the Performance of Support Vector Regression and Random Forest for Stock Price Prediction in the IDX research paper"
 version: 2.0.4
 date-released: 2024-06-23
 url: "https://github.com/not-jess/svr-rf-stock-price-prediction"  
