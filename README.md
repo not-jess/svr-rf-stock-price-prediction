@@ -1,5 +1,5 @@
 # svr-rf-stock-price-prediction
-A project I did for my research course in Binus Universiry (COMP6696001 – Research Methodology in Computer Science), _**"Evaluating the Performance of Support Vector Regression and Random Forest for Stock Price Prediction in the IDX"**_. This repository contains the source code and datasets used in the research. 
+A project I did for my research course in Binus University (COMP6696001 – Research Methodology in Computer Science), _**"Evaluating the Performance of Support Vector Regression and Random Forest for Stock Price Prediction in the IDX"**_. This repository contains the source code and datasets used in the research. 
 
 The primary objective of the research was to evaluate the performance of SVR and RF in predicting stock prices within the IDX. Afterwards I compared the accuracy and effectiveness of both models in capturing future stock price movements.
 
