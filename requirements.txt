@@ -1,0 +1,8 @@
+pandas
+plotly
+scikit-learn
+numpy
+matplotlib
+datetime
+seaborn
+warnings
