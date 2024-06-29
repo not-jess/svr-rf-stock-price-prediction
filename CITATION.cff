@@ -6,6 +6,5 @@ authors:
 - given-names: "Albert"
 title: "svr-rf-stock-price-prediction"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
 date-released: 2024-06-23
 url: "https://github.com/not-jess/svr-rf-stock-price-prediction"
